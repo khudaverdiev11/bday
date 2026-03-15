@@ -74,7 +74,7 @@ export default function Childhood() {
 
 const styles = {
   page: { minHeight: '100vh', background: 'radial-gradient(ellipse at 30% 20%, #1e0812 0%, #0e0608 70%)', padding: '7rem 1.5rem 5rem' },
-  sub: { fontSize: '0.85rem', color: 'var(--text-dim)', marginTop: '0.8rem', fontStyle: 'italic', fontFamily: "'Cormorant Garamond', serif", fontSize: '1.05rem' },
+  sub: { color: 'var(--text-dim)', marginTop: '0.8rem', fontStyle: 'italic', fontFamily: "'Cormorant Garamond', serif", fontSize: '1.05rem' },
   grid: { display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(240px, 1fr))', gap: '1.2rem', maxWidth: 900, margin: '0 auto' },
   card: {
     background: 'rgba(18,5,10,0.9)', border: '1px solid rgba(155,45,66,0.25)',
